@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/victorsteven/forum/api"
+	"https://github.com/ahmadalahrsh18/Forum-App-Go-Backend"
 )
 
 func main() {
